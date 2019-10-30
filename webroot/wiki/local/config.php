@@ -189,10 +189,11 @@ $TableRowAttrFmt = "class='ind\$TableRowIndex'";
 $WikiStyle['city']['color']    ='#fff';
 $WikiStyle['changeling']['color']    ='#005826';
 $WikiStyle['geist']['color']    ='#415582';
-$WikiStyle['mage']['color']    ='#004a80';
-$WikiStyle['mortal']['color']    ='#6e68a3';
+$WikiStyle['mortal']['color']    ='#004a80';
+$WikiStyle['beast']['color']    ='#6e68a3';
 $WikiStyle['vampire']['color']    ='#9e0b0f';
 $WikiStyle['werewolf']['color']    ='#74483f';
+$WikiStyle['chrisf']['color']    ='#ff00ff';
 
 $MarkupCss = true;
 
